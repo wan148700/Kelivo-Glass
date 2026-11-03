@@ -8,7 +8,7 @@
 - [下载完整对应源码 ZIP](https://github.com/wan148700/Kelivo-Glass/releases/download/glass13.3/Kelivo-Glass-1.3.2-glass13.3-source.zip)
 - [全部发布附件与校验信息](https://github.com/wan148700/Kelivo-Glass/releases/tag/glass13.3)
 
-**源码请下载上面专门命名的 source.zip 附件。GitHub 自动生成的 Source code (zip/tar.gz) 只包含本仓库的说明文件，不是完整 Flutter 工程。** 完整附件含 Flutter 源码、锁文件、vendored 依赖、生成本地化、许可证与构建配置脚本；不需要访问其他私人仓库。
+**源码请下载上面专门命名的 source.zip 附件。GitHub 自动生成的 Source code (zip/tar.gz) 只包含归档说明和构建用文件，不是完整 Flutter 工程。** 完整附件含 Flutter 源码、锁文件、vendored 依赖、生成本地化、许可证与构建配置脚本；不需要访问其他私人仓库。
 
 ## 修改与使用
 
