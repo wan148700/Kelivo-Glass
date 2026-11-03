@@ -1,0 +1,22 @@
+name: Copy verified Glass13.3 archives
+on:
+  workflow_dispatch:
+    inputs:
+      artifact_url:
+        description: Short-lived read-only URL for the already signed APK
+        required: true
+        type: string
+permissions:
+  contents: write
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Assemble exact source and mirror unchanged APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 archive/mirror.py
