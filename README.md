@@ -1,12 +1,16 @@
-# Kelivo Glass · 非官方玻璃改版
+# Ash Workshop
+
+个人作品与前端修改归档，保存安装包、对应源码及使用/恢复说明。后续项目按各自许可单独说明。
+
+## Kelivo Glass · 非官方玻璃改版
 
 基于 [Chevey339/Kelivo](https://github.com/Chevey339/kelivo) 的个人修改版。原项目版权归原作者及贡献者；不代表原作者发布、维护或背书。此仓库用于独立保存已签名 APK 和完整对应源码，不包含原私人仓库历史或其他项目。
 
 当前版本：**1.3.2-glass.13.3 / code97**，Android ARM64，包名 `com.psyche.kelivo.ashglass`。
 
-- [下载 APK](https://github.com/wan148700/Kelivo-Glass/releases/download/glass13.3/Kelivo-Glass-1.3.2-glass13.3-arm64.apk)
-- [下载完整对应源码 ZIP](https://github.com/wan148700/Kelivo-Glass/releases/download/glass13.3/Kelivo-Glass-1.3.2-glass13.3-source.zip)
-- [全部发布附件与校验信息](https://github.com/wan148700/Kelivo-Glass/releases/tag/glass13.3)
+- [下载 APK](https://github.com/wan148700/Ash-Workshop/releases/download/glass13.3/Kelivo-Glass-1.3.2-glass13.3-arm64.apk)
+- [下载完整对应源码 ZIP](https://github.com/wan148700/Ash-Workshop/releases/download/glass13.3/Kelivo-Glass-1.3.2-glass13.3-source.zip)
+- [全部发布附件与校验信息](https://github.com/wan148700/Ash-Workshop/releases/tag/glass13.3)
 
 **源码请下载上面专门命名的 source.zip 附件。GitHub 自动生成的 Source code (zip/tar.gz) 只包含归档说明和构建用文件，不是完整 Flutter 工程。** 完整附件含 Flutter 源码、锁文件、vendored 依赖、生成本地化、许可证与构建配置脚本；不需要访问其他私人仓库。
 
